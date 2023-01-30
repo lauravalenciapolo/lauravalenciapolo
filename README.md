@@ -40,7 +40,7 @@ ____________________
 ~~~
 📌 Henry Bootcamp Individual Project 
 I worked as a Full Stack Web Developer
-**Pokemon** | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)<br>
+**Pokemon** | [Source Code](https://github.com/lauravalenciapolo/Proyecto-Individual)<br>
 
 Design and develop a web page about videogames including:
 ◉ Search by name
