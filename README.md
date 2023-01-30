@@ -84,6 +84,7 @@ Tech Utils:
 ✔ Nivo (graphs)
 ✔ Stripe (Payment gateway)
 ✔ Nodemailer (Sending of mails)
+✔ Auth0 (Authentication)
 ~~~
 <h2><center>Adilbet</center></h2>
 <!-- <p align="center">
