@@ -57,14 +57,14 @@ Tech Utils:
 ◉ PostgreSQL
 ◉ Sequelize
 ~~~
-<!-- <p align="center">
-<img align="center" width="400px" src="./PI-Images/1 - landing.jpg"/>
-<img align="center" width="400px" src="./PI-Images/2 - home.jpg" />
+<p align="center">
+<img align="center" width="400px" src="./PI/landing.png"/>
+<img align="center" width="400px" src="./PI/home.png" />
 </p>
 <p align="center">
-<img align="center" width="400px" src="./PI-Images/3 - form.jpg" />
-<img align="center" width="400px" src="./PI-Images/4 - detail.jpg" />
-</p> -->
+<img align="center" width="400px" src="./PI/filter.png" />
+<img align="center" width="400px" src="./PI/Create.png" />
+</p>
 
 ____________________
 ## AdilBet  
@@ -89,31 +89,18 @@ Tech Utils:
 ✔ Auth0 (Authentication)
 ~~~
 <h2><center>Adilbet</center></h2>
-<!-- <p align="center">
-<img align="center" width="400px" src='./PF-Images/1 - login.jpg' />
-<img align="center" width="400px" src='./PF-Images/2 - game.jpg' />
+<p align="center">
+<img align="center" width="400px" src='./PF/landing2.png' />
+<img align="center" width="400px" src='./PF/landing3.png' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/3 - ranking.jpg' />
-<img align="center" width="400px" src='./PF-Images/4 - perfil.jpg' />  
+<img align="center" width="400px" src='./PF/home2.png' />
+<img align="center" width="400px" src='./PF/perfil.png' />  
 </p>
 <h2><center>Administrator Panel</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/21 - homeadmin.jpg' />
-<img align="center" width="400px" src='./PF-Images/22 - useradmin.jpg' />
+<img align="center" width="400px" src='./PF/dashboard.png' />
 </p>
-<p align="center">
-<img align="center" width="400px" src='./PF-Images/23 - gamesadmin.jpg' />
-<img align="center" width="400px" src='./PF-Images/24 - paymentadmin.jpg' />  
-</p>
-<p align="center">
-<img align="center" width="400px" src='./PF-Images/25 - reviewadmin.jpg' />
-</p>
-<h2><center>Web Game</center></h2>
-<p align="center">
-<img align="center" width="400px" src='./PF-Images/31 - loginweb.jpg' />
-<img align="center" width="400px" src='./PF-Images/32 - gameweb.jpg' />
-</p> -->
 
 ___________________________________________
 
