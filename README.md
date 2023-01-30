@@ -25,9 +25,9 @@ Empowered in the topics that I am passionate about.
 <!-- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  -->
 </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Feli-dev&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauravalenciapolo&show_icons=true&locale=en&hide=stars&theme=github_dark" alt="Feli-dev" /></p> 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feli-dev&layout=compact)](#) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauravalenciapolo&layout=compact)](#)
 
 
 ## Checkout my work
