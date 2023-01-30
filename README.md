@@ -74,7 +74,7 @@ ____________________
 
 Final group project of Bootcamp Henry. 
 I worked as a Full Stack Web Developer. 
-**AdilBet** | [Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)
+[Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)
 
 The project has a web version and an administrator panel.
 
