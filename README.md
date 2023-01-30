@@ -40,7 +40,7 @@ ____________________
 ~~~
 📌 Henry Bootcamp Individual Project 
 I worked as a Full Stack Web Developer
-[Source Code](https://github.com/lauravalenciapolo/Proyecto-Individual)
+[Source Code](https://github.com/lauravalenciapolo/Proyecto-Individual/)
 
 Design and develop a web page about videogames including:
 ◉ Search by name
