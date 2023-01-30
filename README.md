@@ -70,11 +70,11 @@ ____________________
 ## AdilBet  
 
 ~~~
-📌 A mobile game developed to make geography more fun
+📌 A sports betting website
 
 Final group project of Bootcamp Henry. 
 I worked as a Full Stack Web Developer. 
-[Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)
+[Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/lauravalenciapolo/Adilbet)
 
 The project has a web version and an administrator panel.
 
