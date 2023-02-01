@@ -45,7 +45,7 @@ I worked as a Full Stack Web Developer
 Design and develop a web page about pokemons including:
 ◉ Search by name
 ◉ Filtering, Sorting and Pagination
-◉ Option to create a videogame
+◉ Option to create a pokemon
 
 Tech Utils: 
 ◉ Javascript
