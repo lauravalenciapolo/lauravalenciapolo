@@ -47,7 +47,7 @@ Design and develop a web page about pokemons including:
 ◉ Filtering, Sorting and Pagination
 ◉ Option to create a pokemon
 
-Tech Utils: 
+Tech Stack: 
 ◉ Javascript
 ◉ ReactJS
 ◉ Redux
@@ -78,7 +78,7 @@ I worked as a Full Stack Web Developer.
 
 The project has a web version and an administrator panel.
 
-Tech Utils:
+Tech Stack:
 🎮 Database: PostgreSQL
 🎮 Back-End: NodeJs, Express, Sequelize
 🎮 Front-End: React JS, Redux, CSS, Material-UI, HTML
